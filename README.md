@@ -1,85 +1,151 @@
-# Hi there, I'm Hemant Kumar! 👋
 
-### Aspiring Software Developer | AI Enthusiast
+<h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
 
----
+<h3 align="center">Aspiring Software Developer | Frontend Developer</h3>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+JavaScript+%7C+React.js;Frontend+%26+Full+Stack+Development;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
+</p>
 
-Motivated Computer Science student with a passion for software development and AI, seeking an internship to apply academic knowledge and gain real-world experience.
-
-- 📍 Currently based in Rosera (Bihar), India
-- 🎓 B.Tech in Computer Science from Centurion University of Technology and Management (2023-2027)
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 I’m currently working on *exploring new software development projects and enhancing my AI skills.*
-- 🌱 I’m currently learning *advanced Python frameworks and machine learning algorithms.*
-- 👯 I’m looking to collaborate on *open-source projects related to AI, web development, or data science.*
-- 🤔 I’m looking for help with *optimizing algorithms for large datasets and understanding complex system architectures.*
-- 💬 Ask me about *Python programming, web development, or anything related to computer science!*
-- 📫 How to reach me: *You can reach me via email at hemantrajaur@gmail.com or connect with me on LinkedIn.*
-- ⚡ Fun fact: *I enjoy solving complex coding challenges in my free time and exploring new technologies.*
+<p align="center">
+  <a href="https://github.com/Hemant-kumar05">
+    <img src="https://img.shields.io/badge/GitHub-Hemant--kumar05-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://hemant-kumar05.github.io/-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 My Skills
+## 👨‍💻 About Me
 
+I am a B.Tech Computer Science and Engineering student at Centurion University of Technology and Management, passionate about software development and building modern web applications.
 
+I enjoy learning new technologies, solving coding problems, and turning ideas into practical projects. My goal is to start my career as a Software Developer and contribute to real-world software products.
 
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-
-### Concepts
-
-![Data Structures](https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-green?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-red?style=for-the-badge)
+- 🎓 **Education:** B.Tech in Computer Science and Engineering
+- 💻 **Career Focus:** Software Development and Frontend Development
+- 🌐 **Portfolio:** [Explore My Portfolio](https://hemant-kumar05.github.io/-Portfolio/)
+- 🧩 **Problem Solving:** Java and Data Structures & Algorithms
+- 🚀 **Development:** React.js and Full Stack Web Technologies
+- 🎯 **Goal:** Software Developer Internship / Entry-Level Opportunity
 
 ---
 
-## 🤝 Soft Skills
+## 🛠️ Technical Skills
 
-- Communication
-- Problem-solving
-- Team Collaboration
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React.js"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code and Linux"/>
+</p>
+
+- 🔌 **API Development:** REST APIs
+- 🐧 **Operating Systems:** Linux, Kali Linux, Red Hat Linux
+- 🧠 **Core CS:** Data Structures & Algorithms, OOP, DBMS
+- 🤝 **Professional Skills:** Problem-Solving, Teamwork, Continuous Learning
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Hemant Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-kumar05&show_icons=true&theme=dark)
+### 1. Collaborative AI-Powered Ideation & Project Management Platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-kumar05&layout=compact&theme=dark)
+A platform concept focused on collaborative brainstorming, project organization, and team productivity.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO
+
+- 💡 AI-assisted idea generation
+- 🗺️ Collaborative whiteboard and mind mapping
+- 📋 Kanban-based task management
+- 💬 Real-time communication and collaboration
+
+### 2. Movie Ticket Booking Website
+
+A frontend web project designed to provide a simple and user-friendly movie browsing and booking interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+- 🎬 Movie browsing interface
+- 🎨 Interactive user interface
+- 📱 Responsive web design
+
+### 3. Android Snake Game
+
+A classic Snake game project focused on game logic and interactive gameplay.
+
+- 🎮 Snake movement and game logic
+- 🧩 Programming fundamentals
+- 📱 Android application development
 
 ---
 
-## 🌐 Connect with me:
+## 📚 Currently Learning
 
-- 📧 Email: hemantrajaur@gmail.com
-- 💼 LinkedIn: [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-75b83a2a6?)
-- 🐙 GitHub: [Hemant kumar](https://github.com/Hemant-kumar05)
-- 💻 Portfolio: [Hemant Kumar's Portfolio](https://hemant-kumar05.github.io/-Portfolio/)
-- 📸 Instagram: [Hemant Kumar](https://www.instagram.com/hemantrajaur?igsh=MXdlZ2MyZTZhNTYydg==)
+- ⚛️ React.js and Modern JavaScript
+- ☕ Java and Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- 💼 Technical Interview and Placement Preparation
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemant-kumar05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-kumar05&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hemant-kumar05&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Hemant-kumar05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://hemant-kumar05.github.io/-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Learn. Build. Improve. Repeat.</i>
+</p>
+
+<p align="center">
+  Thank you for visiting my profile! ⭐
+</p>
